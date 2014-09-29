@@ -4,5 +4,5 @@ public class Revision{
 	public Revision(int numRevision){
 		this.numRevision = numRevision;
 	}
-
+	System.out.println("Bonjour");
 } 
